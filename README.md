@@ -13,7 +13,7 @@ The given code includes all code for both the implementation of the Graph class 
 </br>
 </br>
 </br>
-```
+```c++
 void InitSingleSource(Node* source) {   // Inits all vertices given source
     for (auto v : vertices) {
         v->v_d = INF;
