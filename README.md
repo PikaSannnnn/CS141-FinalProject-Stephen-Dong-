@@ -8,8 +8,7 @@ This Bellman-ford algorithm was implemented such that it is built into a graph c
 The names of any variables added can be modified as seen fit.  
 
 The given code includes all code for both the implementation of the Graph class and the Bellman-ford algorithm. The code also includes unit tests for multiple graphs of different attributes, each testing the outputs and ability to find the shortest path tree and each edge given a source.  
-**All vital parts of the Bellman-ford algorithm can be found between the # lines (Line 28 - 49 and Line 120 - 143).** Below is the snippets for each of these parts.
-</br>
+**All vital parts of the Bellman-ford algorithm can be found between the # lines (Line 28 - 49 and Line 120 - 143).** Below are the snippets for each of these parts.
 </br>
 </br>
 </br>
