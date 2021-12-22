@@ -1,3 +1,5 @@
+Note: Please no Plagiarizing
+
 # Notes and Guidelines
 
 This Bellman-ford algorithm was implemented such that it is built into a graph class. In order to implement this algorithm, additional factors must be considered:
